@@ -10,8 +10,8 @@ Sou formado em Análise e Desenvolvimento de Sistemas e tenho grande interesse e
 - **Angular**: Aplicações web dinâmicas e interativas
 
 ## Entre em contato
-- [LinkedIn](https://www.linkedin.com/in/lucas-peixoto-ti/)
-- **Email**: lucaspeixoto349@gmail.com
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-peixoto-ti/)
+- 📧 **Email**: [lucaspeixoto349@gmail.com](mailto:lucaspeixoto349@gmail.com)
 
 ---
 
