@@ -35,4 +35,7 @@ Sou formado em Análise e Desenvolvimento de Sistemas e tenho grande interesse e
 ---
 
 <p align="justify">
-Obrigado p
+Obrigado por visitar meu perfil! 😊
+</p>
+
+</div>
