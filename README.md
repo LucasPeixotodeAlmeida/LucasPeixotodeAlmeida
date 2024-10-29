@@ -6,7 +6,7 @@
 Sou formado em Análise e Desenvolvimento de Sistemas e tenho grande interesse em resolver problemas através da tecnologia. Estou sempre em busca de novos conhecimentos e desafios para aprimorar minhas habilidades e contribuir com soluções inovadoras.
 </p>
 
-## Tecnologias Principais
+## Principais Tecnologias
 
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40" title="Java"/>
