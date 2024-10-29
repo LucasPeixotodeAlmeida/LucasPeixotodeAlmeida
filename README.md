@@ -1,4 +1,4 @@
-# Olá! Eu sou o Lucas Peixoto 👋
+<div aligh="center"># Olá! Eu sou o Lucas Peixoto 👋</div>
 
 <div align="center">
 
