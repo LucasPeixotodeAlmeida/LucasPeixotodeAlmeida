@@ -22,12 +22,12 @@ Sou formado em Análise e Desenvolvimento de Sistemas e tenho grande interesse e
 ## Estatísticas do GitHub
 <div style="display: flex; justify-content: space-around; align-items: center;">
     <img src="https://github-readme-stats.vercel.app/api?username=LucasPeixotodeAlmeida&show_icons=true&theme=dracula&count_private=true" alt="Estatísticas do GitHub" style="width: 400px;"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasPeixotodeAlmeida&layout=compact&theme=dracula" alt="Linguagens mais usadas" style="width: 400px;"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasPeixotodeAlmeida&layout=compact&theme=dracula" alt="Linguagens mais usadas" style="width: 300px;"/>
 </div>
 
 ## Entre em contato
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-peixoto-ti/)
-- [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lucaspeixoto349@gmail.com)
+ [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-peixoto-ti/)
+ [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lucaspeixoto349@gmail.com)
 
 
 ---
