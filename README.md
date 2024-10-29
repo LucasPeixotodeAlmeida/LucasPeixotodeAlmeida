@@ -21,7 +21,7 @@ Sou formado em Análise e Desenvolvimento de Sistemas e tenho grande interesse e
 <p align="center">
   <div style="display: flex; justify-content: space-around; align-items: center;">
     <img src="https://github-readme-stats.vercel.app/api?username=LucasPeixotodeAlmeida&show_icons=true&theme=dracula&count_private=true" alt="Estatísticas do GitHub" style="width: 400px;"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasPeixotodeAlmeida&layout=compact&theme=dracula" alt="Linguagens mais usadas" style="width: 400px;"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasPeixotodeAlmeida&layout=compact&theme=dracula" alt="Linguagens mais usadas" style="width: 300px;"/>
   </div>
 </p>
 
