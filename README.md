@@ -19,8 +19,10 @@ Sou formado em Análise e Desenvolvimento de Sistemas e tenho grande interesse e
 
 ## Estatísticas do GitHub
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LucasPeixotodeAlmeida&show_icons=true&theme=dracula&count_private=true" alt="Estatísticas do GitHub" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasPeixotodeAlmeida&layout=compact&theme=dracula" alt="Linguagens mais usadas" />
+  <div style="display: flex; justify-content: space-around; align-items: center;">
+    <img src="https://github-readme-stats.vercel.app/api?username=seu-username&show_icons=true&theme=dracula&count_private=true" alt="Estatísticas do GitHub" style="width: 400px;"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-username&layout=compact&theme=dracula" alt="Linguagens mais usadas" style="width: 400px;"/>
+  </div>
 </p>
 
 ## Entre em contato
