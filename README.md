@@ -1,16 +1,18 @@
-## Hi there 👋
+# Olá! Eu sou o Lucas Peixoto 👋
 
-<!--
-**LucasPeixotodeAlmeida/LucasPeixotodeAlmeida** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Sobre mim
+Sou formado em Análise e Desenvolvimento de Sistemas e tenho grande interesse em resolver problemas através da tecnologia. Estou sempre em busca de novos conhecimentos e desafios para aprimorar minhas habilidades e contribuir com soluções inovadoras.
 
-Here are some ideas to get you started:
+## Tecnologias Principais
+🚀 **Linguagens e Frameworks**:
+- **Java**: Backend robusto e escalável
+- **Spring Boot**: Desenvolvimento de APIs e serviços RESTful
+- **Angular**: Aplicações web dinâmicas e interativas
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Entre em contato
+- [LinkedIn](https://www.linkedin.com/in/lucas-peixoto-ti/)
+- **Email**: lucaspeixoto349@gmail.com
+
+---
+
+Obrigado por visitar meu perfil! 😊
