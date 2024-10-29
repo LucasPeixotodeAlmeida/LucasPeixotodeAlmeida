@@ -7,9 +7,6 @@ Sou formado em Análise e Desenvolvimento de Sistemas e tenho grande interesse e
 </p>
 
 ## Tecnologias Principais
-<p align="justify">
-🚀 **Linguagens e Frameworks**:
-</p>
 
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40" title="Java"/>
